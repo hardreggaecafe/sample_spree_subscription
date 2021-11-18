@@ -5,7 +5,7 @@ ruby '2.5.0'
 
 #spree
 gem 'spree', '~> 3.7'
-gem 'spree_auth_devise', '~> 3.5'
+gem 'spree_auth_devise', '~> 4.0'
 gem 'spree_gateway', '~> 3.4'
 gem 'spree_product_subscriptions', github: 'vinsol-spree-contrib/spree_product_subscriptions', branch: "rspecs"
 
